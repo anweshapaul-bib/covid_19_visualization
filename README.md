@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The novel coronavirus (COVID-19) that was first reported at the end of 2019 has impacted almost every aspect of life as we know it. As 'a picture is worth a thousand words', having methods to visualize and visually analyze a big data makes it easier to comprehend the data. In this project, we present a big data visualization for visualizing and analyzing COVID-19 epidemiological data. The relative number of confirmed, recovered and death cases in different countries are shown with data visualization of how the infection has spread across the world using pie charts and bar graphs. Vaccination data has also been presented with the help of similar plots.
+The novel coronavirus (COVID-19) that was first reported at the end of 2019 has impacted almost every aspect of life as we know it. Since, having methods to visualize and visually analyze a big data makes it easier to comprehend the data, in this project, we present a big data visualization for visualizing and analyzing COVID-19 epidemiological data. The relative number of confirmed, recovered and death cases in different countries are shown with data visualization of how the infection has spread across the world using pie charts, bar graphs and other related plots. Vaccination data has also been presented with the help of similar plots.
 
 
 ### Introduction
