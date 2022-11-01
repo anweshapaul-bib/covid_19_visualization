@@ -1,4 +1,4 @@
-# Visualisation and Analyzation of The Novel Coronavirus (2019-nCoV) dataset
+# Visualisation and Analyzation of The Novel Coronavirus (2019-nCoV) Dataset
 
 ### Abstract
 
