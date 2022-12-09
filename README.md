@@ -1,5 +1,4 @@
 
-## Dashboard Link: https://www.google.com
 
 # Visualisation and Analyzation of The Novel Coronavirus (2019-nCoV) Dataset
 
