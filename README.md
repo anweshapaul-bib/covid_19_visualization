@@ -1,1 +1,1 @@
-### DASHBOARD:  <br> https://paulanwesha.shinyapps.io/covid/
+### DASHBOARD: \t https://paulanwesha.shinyapps.io/covid/
