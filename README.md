@@ -1,2 +1,1 @@
-## LINK TO DASHBOARD: 
-https://paulanwesha.shinyapps.io/covid/
+### LINK TO DASHBOARD:  https://paulanwesha.shinyapps.io/covid/
