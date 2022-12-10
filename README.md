@@ -1,9 +1,11 @@
 
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The application can be viewed at this URL:  https://paulanwesha.shinyapps.io/covid/
+
 
 # Visualisation and Analyzation of The Novel Coronavirus (2019-nCoV) Dataset
 
 ### Abstract
-
+&nbsp; 
   The novel coronavirus (COVID-19) that was first reported at the end of 2019 has impacted almost every aspect of life as we know it. Since, having methods to visualize and visually analyze a big data makes it easier to comprehend the data, never before has visualisation been more important than in the COVID-19 pandemic. In this project, we present a big data visualization for visualizing and analyzing the COVID-19 epidemiological data. 
 
 
