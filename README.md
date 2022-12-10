@@ -73,7 +73,7 @@ Please click on the link given above to view the dashboard.
 I have plotted the following :
 
 *  Total Covid Cases Region-wise
-*  Relationship Between cumulative Active v/s cumulative Death Cases and cumulative Active v/s cummulative Recovered Cases
+*  Relationship Between cumulative Active v/s cumulative Death Cases and cumulative Active v/s cumulative Recovered Cases
 *  Relationship Between cumulative Recovered and cumulative Death Cases
 *  Confirmed Cases Worldwide
 *  Active Cases Worldwide
