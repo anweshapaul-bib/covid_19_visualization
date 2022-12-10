@@ -73,8 +73,8 @@ Please click on the link given above to view the dashboard.
 I have plotted the following :
 
 *  Total Covid Cases Region-wise
-*  Relationship Between cummulative Active v/s cummulative Death Cases and cummulative Active v/s cummulative Recovered Cases
-*  Relationship Between cummulative Recovered and cummulative Death Cases
+*  Relationship Between cumulative Active v/s cumulative Death Cases and cumulative Active v/s cummulative Recovered Cases
+*  Relationship Between cumulative Recovered and cumulative Death Cases
 *  Confirmed Cases Worldwide
 *  Active Cases Worldwide
 *  Recovered Cases Worldwide
@@ -85,4 +85,4 @@ I have plotted the following :
 
 ### Conclusion
 
-We observed that initially death cases increase more rapidly as compared to recovered cases whereas rate of recovery is slower initially compared to rate of increase in the active total. Also we observe a linear trend while we plotted the cummulative Recovered and cummulative Death Cases.
+We observed that initially death cases increase more rapidly as compared to recovered cases whereas rate of recovery is slower initially compared to rate of increase in the active total. Also we observe a linear trend while we plotted the cumulative Recovered and cumulative Death Cases.
